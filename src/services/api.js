@@ -4,9 +4,9 @@ import { format } from 'date-fns';
 const API_CONFIG = {
   baseURL: 'https://indian-railway-irctc.p.rapidapi.com/api/trains/v1/train',
   headers: {
-    'x-rapidapi-key': '37bea342d1msh17303881620f663p1e048bjsndd1cf1a1fd3a',
-    'x-rapidapi-host': 'indian-railway-irctc.p.rapidapi.com',
-    'x-rapid-api': 'rapid-api-database'
+    'x-rapidapi-key': '94d78fa599msh862475b23cc344ep141db6jsn74f36b49b419',
+		'x-rapidapi-host': 'indian-railway-irctc.p.rapidapi.com',
+		'x-rapid-api': 'rapid-api-database'
   }
 };
 
